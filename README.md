@@ -7,5 +7,5 @@
 | 2.   | [Решение конкурса на kaggle.com](https://github.com/permyakov-andrew/DEEP-Learning-School/tree/main/Journey%20to%20Springfield) | [обучение классификатора на основе сверточных сетей, чтобы научиться отличать всех жителей Спрингфилда.](https://www.kaggle.com/competitions/journey-springfield/overview)| Phyton, pandas, torh, torchvision    |
 | 3.   | [Сегментация изображений](https://github.com/permyakov-andrew/DEEP-Learning-School/tree/main/semantic%20segmentation)| [решение задач сегментации медицинских снимков](https://github.com/permyakov-andrew/DEEP-Learning-School/tree/main/semantic%20segmentation)| Phyton, pandas, torh, torchvision    |
 | 4.   | [Autoencoders](https://github.com/permyakov-andrew/DEEP-Learning-School/tree/main/autoencoders)| построение и обучение архитектуры variation autoencodeк| Phyton, pandas, torh, torchvision    |
-| 3.   | [Сегментация изображений](https://github.com/permyakov-andrew/DEEP-Learning-School/tree/main/semantic%20segmentation)| [решение задач сегментации медицинских снимков](https://github.com/permyakov-andrew/DEEP-Learning-School/blob/main/semantic%20segmentation/semantic_segmentation_Permyakov.ipynb)| Phyton, pandas, torh, torchvision    |
+
 
